@@ -51,8 +51,7 @@ The dataset consists of a consolidated customer support master table containing:
 
 ## 📈 Dashboard Preview
 
-<img width="686" height="380" alt="Screenshot 2026-01-02 175751" src="https://github.com/user-attachments/assets/5f16f2ee-dc81-451f-abe7-580e87425c92" />
-
+<img width="686" height="380" alt="Screenshot 2026-01-02 175751" src="https://github.com/user-attachments/assets/6816c728-7e80-4f67-aca7-73e55c3a2c7a" />
 
 *Interactive Power BI dashboard summarizing operational performance metrics.*
 
